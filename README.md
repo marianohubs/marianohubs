@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="BANNER" alt="Descripción de la imagen">
 <!--
 **marianohubs/marianohubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
