@@ -1,36 +1,8 @@
 ## marianohubs👨‍💻 👋
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Banner en GitHub</title>
-    <style>
-        .banner {
-            width: 100%;
-            height: 200px;
-            background-image: url('BANNERUFC');
-            background-size: cover;
-            background-position: center;
-            text-align: center;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .banner h1 {
-            color: white;
-            font-size: 3em;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-        }
-    </style>
-</head>
-<body>
-    <div class="banner">
-        <h1>Bienvenido a mi Repositorio</h1>
-    </div>
-</body>
-</html>
+<
+    <img src="<img width="576" alt="BANNER" src="https://github.com/user-attachments/assets/2f23d25b-fdd7-4ab4-85b0-d960432c5d6b">
+" 
 
 <!--
 **marianohubs/marianohubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
