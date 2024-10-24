@@ -22,8 +22,8 @@
 
 
 
-"<img width="576" alt="BANNER" src="https://github.com/user-attachments/assets/2f23d25b-fdd7-4ab4-85b0-d960432c5d6b">
-" 
+![Banner Curso De Inglés Matrículas Abiertas Moderno Fondo Azul](https://github.com/user-attachments/assets/0c8c530e-dda1-4499-8d8a-47ee80f3256f)
+
 
 <!--
 **marianohubs/marianohubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
