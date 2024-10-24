@@ -1,8 +1,8 @@
 ## marianohubs👨‍💻 👋
 
-- 💼 Trabajo en: Desarrollo de Software
+💼 Trabajo en: Desarrollo de Software
 
-🖥️ Experiencia en: Programación en Python y Java
+🖥️ Experiencia en Programación en: CSS, Java, Eclipse, Brackets, Vscode.
 
 🚀 Habilidades clave: Innovación y solución de problemas
 
@@ -10,7 +10,7 @@
 
 📊 Proyectos destacados: Aplicaciones web y móviles
 
-🌍 Idiomas: Español, Inglés y Alemán
+🌍 Idiomas: Español e  Inglés.
 
 🎯 Objetivos: Mejorar la eficiencia de las aplicaciones
 
