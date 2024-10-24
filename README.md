@@ -1,4 +1,4 @@
-## Hi there 👋
+## marianohubs👨‍💻 👋
 
 <img src="BANNERUFC" alt="BANNER">
 <!--
@@ -6,12 +6,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Cineplanet.
+- 🌱 I’m currently learning ract
+- 👯 I’m looking to collaborate on projects.
+- 🤔 I’m looking for help with next.js-
+- 💬 Ask me about: my favorite programing langauge
+- 📫 How to reach me: @marianohubs
+- 😄 Pronouns: he,
+- ⚡ Fun fact: gamer.
 -->
