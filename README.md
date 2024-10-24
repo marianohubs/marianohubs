@@ -1,15 +1,24 @@
 ## marianohubs👨‍💻 👋
 
-- 🔭 I’m currently working on Cineplanet.
-- 🌱 I’m currently learning ract
-- 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with next.js-
-- 💬 Ask me about: my favorite programing langauge
-- 📫 How to reach me: @marianohubs
-- 😄 Pronouns: he,
-- ⚡ Fun fact: gamer.
--->
+- 💼 Trabajo en: Desarrollo de Software
 
+🖥️ Experiencia en: Programación en Python y Java
+
+🚀 Habilidades clave: Innovación y solución de problemas
+
+📚 Educación: Licenciatura en Ingeniería Informática
+
+📊 Proyectos destacados: Aplicaciones web y móviles
+
+🌍 Idiomas: Español, Inglés y Alemán
+
+🎯 Objetivos: Mejorar la eficiencia de las aplicaciones
+
+📈 Resultados: Incremento del 20% en rendimiento de sistemas
+
+🤝 Trabajo en equipo: Excelentes habilidades de colaboración
+
+🔧 Herramientas: Git, Docker y Jenkins
 
 
 
