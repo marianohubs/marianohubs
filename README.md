@@ -1,3 +1,4 @@
+![Banner Curso De Inglés Matrículas Abiertas Moderno Fondo Azul](https://github.com/user-attachments/assets/0c8c530e-dda1-4499-8d8a-47ee80f3256f)
 ## marianohubs👨‍💻 👋
 
 💼 Trabajo en: Desarrollo de Software
@@ -19,10 +20,6 @@
 🤝 Trabajo en equipo: Excelentes habilidades de colaboración
 
 🔧 Herramientas: Git, Docker y Jenkins
-
-
-
-![Banner Curso De Inglés Matrículas Abiertas Moderno Fondo Azul](https://github.com/user-attachments/assets/0c8c530e-dda1-4499-8d8a-47ee80f3256f)
 
 
 <!--
