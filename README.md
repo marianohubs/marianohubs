@@ -28,11 +28,11 @@
 
 
 <div style="display: flex; align-items: center;">
-<a href="https://www.youtube.com/@EdnaRodríguezAlonzo?sub_confirmation=1" target="_blank">
+<a href="https://www.youtube.com/@Marianoeliel" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscribirse">
 </a>
 
-<a href="https://twitter.com/eorocio" target="_blank">
+<a href="https://twitter.com/e" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Sígueme en Twitter">
 </a>
 
@@ -42,7 +42,7 @@
 </a>
 
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ednarodriguez2/ednarodriguez2&title=Visitas&edge_flat=false" alt="Contador de visitas" style="margin-right: 10px;">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ednarodriguez2/marianohubs&title=Visitas&edge_flat=false" alt="Contador de visitas" style="margin-right: 10px;">
   <img src="https://img.shields.io/github/forks/ednarodriguez2/ednarodriguez2?style=social" alt="GitHub forks">
 
   
