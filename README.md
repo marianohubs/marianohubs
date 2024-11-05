@@ -79,7 +79,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">INCORPORACION DE CSS</h3>
+<h3 align="center">desxarfar vs 2</h3>
 <div align="center">
 <a href="https://github.com/marianohubs/marianohubs" target="_blank">
 <a href="https://www.youtube.com/watch?v=b1hvow9xFFg">
