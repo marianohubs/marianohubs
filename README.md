@@ -24,7 +24,7 @@
 <img src="logo.png">
 
 <h1 align="center">Hi 👋, I'm marianohubs</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center"> Mis redes y sociales y mas 👇👇👇</h3>
 
 
 <div style="display: flex; align-items: center;">
