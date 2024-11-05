@@ -28,7 +28,7 @@
 
 <tr>
 <td width="50%">
-<h3 align="center">Curso HTML Básico</h3>
+<h3 align="center">Como Descargar vs code</h3>
 <div align="center">
 <a href="https://github.com/marianohubs/marianohubs" target="_blank"><img src="https://github.com/marianohubs/marianohubs/blob/main/HTML.png" width="400" alt="Curso básico HTML"></a>
 <p>
