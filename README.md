@@ -30,7 +30,7 @@
 <td width="50%">
 <h3 align="center">Como Descargar vs code</h3>
 <div align="center">
-<a href="https://github.com/marianohubs/marianohubs" target="_blank">  alt=""></a>
+<a href="https://github.com/marianohubs/marianohubs" target="_blank"> 
 <p>
 <a href="https://github.com/marianohubs/marianohubs" target="_blank">
 <img src="![programming-and-coding-concept-vector](https://github.com/user-attachments/assets/eab9232c-5207-4c57-9cc1-2cf3567c7a9d)">
