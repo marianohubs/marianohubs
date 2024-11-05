@@ -79,17 +79,17 @@
 
 <td width="50%">
                <br>
-<h3 align="center">desxarfar vs 2</h3>
+<h3 align="center">COMO SUBIR TU PRIMERA PAGINA. TUTORIAL.😲👇</h3>
 <div align="center">
 <a href="https://github.com/marianohubs/marianohubs" target="_blank">
 <a href="https://www.youtube.com/watch?v=b1hvow9xFFg">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://www.youtube.com/watch?v=b1hvow9xFFg">
+<a href="https://youtu.be/Xv4Z4Q7R74c?si=pyZDoODNT9-G2vy3">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
-<p><strong>COMO DESCARGAR VS CODE🔍🔍😲😲</strong>  <strong></strong></p>
+<p><strong>En este video aprenderas como subir tu primera pagina.🔍🔍😲😲</strong>  <strong></strong></p>
 </div>
   
 </td>  
