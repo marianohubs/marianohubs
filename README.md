@@ -29,7 +29,7 @@
 <a href="https://github.com/marianohubs/marianohubs" target="_blank"><img src="https://github.com/marianohubs/marianohubs/blob/main/HTML.png" width="400" alt="Curso básico HTML"></a>
 <p>
 <a href="https://github.com/marianohubs/marianohubs" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
+<img src="">
 </a>
 <a href="https://youtu.be/P7md8VVR1I8?si=PQvvO-hUZYoXIsvJ"_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
