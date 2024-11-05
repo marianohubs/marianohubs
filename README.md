@@ -21,10 +21,43 @@
 
 🔧 Herramientas: Git, Docker y Jenkins
 
-<table>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/marianohubs">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMDbs6Khe3_AWB1W6shnCog">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/marianohubs/hola">
+<img src="logo.png">
+
+<h1 align="center">Hi 👋, I'm Alma Elibeth Orocio Mora</h1>
+<h3 align="center">A passionate frontend developer from Mexico</h3>
+
+
+<div style="display: flex; align-items: center;">
+<a href="https://www.youtube.com/@EdnaRodríguezAlonzo?sub_confirmation=1" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscribirse">
+</a>
+
+<a href="https://twitter.com/eorocio" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Sígueme en Twitter">
+</a>
+
+
+<a href="https://github.com/ednarodriguez2/ednarodriguez2" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
+</a>
+
+
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ednarodriguez2/ednarodriguez2&title=Visitas&edge_flat=false" alt="Contador de visitas" style="margin-right: 10px;">
+  <img src="https://img.shields.io/github/forks/ednarodriguez2/ednarodriguez2?style=social" alt="GitHub forks">
+
+  
+</div>
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/elisiexiste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elisiexiste" height="30" width="40" /></a>
+<a href="https://fb.com/elibeth orocio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elibeth orocio" height="30" width="40" /></a>
+<a href="https://instagram.com/eorocioo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eorocioo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/elibeth orocio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elibeth orocio" height="30" width="40" /></a>
+</p>
 
 <tr>
 <td width="50%">
