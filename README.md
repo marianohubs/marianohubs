@@ -22,6 +22,11 @@
 🔧 Herramientas: Git, Docker y Jenkins
 
 <table>
+  <img src="imagen_2024-10-23_075934461.png" alt="Imagen centrada" width="100%" height="450px">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/marianohubs">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMDbs6Khe3_AWB1W6shnCog">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/marianohubs/hola">
+
 <tr>
 <td width="50%">
 <h3 align="center">Curso HTML Básico</h3>
