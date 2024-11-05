@@ -33,8 +33,7 @@
 <a href="https://github.com/marianohubs/marianohubs" target="_blank"><img src="https://github.com/marianohubs/marianohubs/blob/main/HTML.png" width="400" alt="Curso básico HTML"></a>
 <p>
 <a href="https://github.com/marianohubs/marianohubs" target="_blank">
-<img src="![Uploading programming-and-coding-concept-vector.jpg…]()
-">
+<img src="![programming-and-coding-concept-vector](https://github.com/user-attachments/assets/eab9232c-5207-4c57-9cc1-2cf3567c7a9d)">
 </a>
 <a href="https://www.youtube.com/watch?v=b1hvow9xFFg">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
