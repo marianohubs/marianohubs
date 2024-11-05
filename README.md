@@ -27,23 +27,10 @@
 <h3 align="center"> Mis redes y sociales y mas 👇👇👇</h3>
 
 
-<div style="display: flex; align-items: center;">
-<a href="https://www.youtube.com/@Marianoeliel" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscribirse">
-</a>
-
-<a href="https://twitter.com/e" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Sígueme en Twitter">
-</a>
-
-
-<a href="(https://github.com/marianohubs/marianohubs)" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
-</a>
-
-
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ednarodriguez2/marianohubs&title=Visitas&edge_flat=false" alt="Contador de visitas" style="margin-right: 10px;">
-  <img src="https://img.shields.io/github/forks/ednarodriguez2/ednarodriguez2?style=social" alt="GitHub forks">
+<img src="imagen_2024-10-23_075934461.png" alt="Imagen centrada" width="100%" height="450px">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/marianohubs">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMDbs6Khe3_AWB1W6shnCog">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/marianohubs/hola">
 
   
 </div>
