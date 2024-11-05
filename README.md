@@ -30,7 +30,7 @@
 <td width="50%">
 <h3 align="center">Como Descargar vs code</h3>
 <div align="center">
-<a href="https://github.com/marianohubs/marianohubs" target="_blank">  alt="Curso básico HTML"></a>
+<a href="https://github.com/marianohubs/marianohubs" target="_blank">  alt=""></a>
 <p>
 <a href="https://github.com/marianohubs/marianohubs" target="_blank">
 <img src="![programming-and-coding-concept-vector](https://github.com/user-attachments/assets/eab9232c-5207-4c57-9cc1-2cf3567c7a9d)">
@@ -48,8 +48,7 @@
                <br>
 <h3 align="center">INCORPORACION DE CSS</h3>
 <div align="center">
-<a href="https://github.com/marianohubs/marianohubs" target="_blank"><img src="https://github.com/}marianohubs/marianohubs/blob/main/HTML-CSS.png" width="400" alt="Curso básico HTML con CSS"></a>
-<p>
+<a href="https://github.com/marianohubs/marianohubs" target="_blank">
 <a href="https://www.youtube.com/watch?v=b1hvow9xFFg">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
