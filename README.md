@@ -23,7 +23,7 @@
 
 <img src="logo.png">
 
-<h1 align="center">Hi 👋, I'm Alma Elibeth Orocio Mora</h1>
+<h1 align="center">Hi 👋, I'm marianohubs</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 
@@ -37,7 +37,7 @@
 </a>
 
 
-<a href="https://github.com/ednarodriguez2/ednarodriguez2" target="_blank">
+<a href="(https://github.com/marianohubs/marianohubs)" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
 </a>
 
