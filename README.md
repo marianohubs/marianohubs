@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
-<p>Aprende a programar con HTML <strong>Como hacer una paguina web basica</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aprende a programar con HTML <strong>Como descargar vs code </strong> - En este video aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>.</p>
 </div>
 
 </td>
